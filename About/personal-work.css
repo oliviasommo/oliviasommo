@@ -105,6 +105,10 @@ header::after {
   font-weight: 600;
 }
 
+.mo2 img {
+    justify-content: center;
+}
+
 nav ul li a:hover {
   color: rgba(0, 0, 0, .5);
   background-color: transparent;
@@ -133,7 +137,7 @@ nav ul li a:hover {
 @media screen and (max-width: 850px) {
   header {
     height: 250px;
-    margin-left: 40px;
+    margin-left: 0px;
     margin-right: 0px;
     margin-top: 50px;
     margin-bottom: 0px;
@@ -181,10 +185,8 @@ body .Information {
 }
 
 .MobileInfo {
-
-  margin-left: 40px;
-  margin-right: 40px;
-
+	
+	justify-content: center;
 
 }
 
