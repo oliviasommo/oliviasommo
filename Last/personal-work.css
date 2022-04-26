@@ -382,5 +382,12 @@ h3 {
 
 .End p {
   margin-left: 20px;
-  font-size: 2vw;
+  margin-bottom: 20px;
+  font-size: 10px;
+  color: black;
+  margin-right:30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-weight: 600;
+  text-transform: uppercase;
 }
