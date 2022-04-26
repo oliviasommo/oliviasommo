@@ -15,8 +15,8 @@ h1 {
 }
 
 header {
-  margin-left: 50px;
-  margin-right: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
   margin-top: 50px;
 }
 
@@ -177,8 +177,8 @@ nav ul li a:hover {
 
 
 body .Information {
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 0px;
+  margin-right: 0px;
   margin-top: 50px;
   margin-bottom: 50px;
 
