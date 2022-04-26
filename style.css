@@ -121,7 +121,7 @@ nav ul li a:hover {
 /* @media screen and (max-width: 1000px) {
   header {
     height: 250px;
-    margin-left: 50px;
+    margin-left: 0px;
     margin-right: 0px;
     margin-top: 50px;
   }
@@ -141,7 +141,7 @@ nav ul li a:hover {
 @media screen and (max-width: 850px) {
   header {
     height: 250px;
-    margin-left: 40px;
+    margin-left: 0px;
     margin-right: 0px;
     margin-top: 50px;
     margin-bottom: 0px;
@@ -364,6 +364,6 @@ h3 {
 }
 
 .End p {
-  margin-left: 20px;
+  margin-left: 0px;
   font-size: 2vw;
 }
