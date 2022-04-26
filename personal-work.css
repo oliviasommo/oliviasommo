@@ -137,7 +137,7 @@ nav ul li a:hover {
 @media screen and (max-width: 850px) {
   header {
     height: 250px;
-    margin-left: 40px;
+    margin-left: 30px;
     margin-right: 0px;
     margin-top: 50px;
     margin-bottom: 0px;
@@ -182,8 +182,8 @@ body .Information {
 
 .MobileInfo {
 
-  margin-left: 40px;
-  margin-right: 40px;
+  margin-left: 30px;
+  margin-right: 30px;
 
 
 }
