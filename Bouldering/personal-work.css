@@ -106,6 +106,7 @@ header::after {
 }
 
 .mo2 img {
+max-width: 204px;
     justify-content: center;
 }
 
