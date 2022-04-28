@@ -106,7 +106,8 @@ header::after {
 }
 
 .mo2 img {
-    justify-content: center;
+	max-width: 204px; 
+	justify-content: center;
 }
 
 nav ul li a:hover {
