@@ -67,6 +67,27 @@ header::after {
   text-transform: uppercase;
 }
 
+/*.middle {
+  float: right;
+}
+
+.middle li {
+  display: inline-block;
+  margin-right: 50px;
+  margin-top: 30px;
+  padding top: 23px;
+
+}
+
+.middle ul li a {
+  display: inline-block;
+  color: black;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 600;
+} */
+
 .mobile {
   float: right;
   margin-left: auto;
@@ -92,14 +113,32 @@ header::after {
 }
 
 .mo2 img {
-	max-width: 204px; 
-	justify-content: center;
+    justify-content: center;
 }
 
 nav ul li a:hover {
   color: rgba(0, 0, 0, .5);
   background-color: transparent;
 }
+
+/* @media screen and (max-width: 1000px) {
+  header {
+    height: 250px;
+    margin-left: 50px;
+    margin-right: 0px;
+    margin-top: 50px;
+  }
+
+  header .middle {
+    display: inline-block;
+    float: right;
+  }
+
+  header .desktop {
+    display: none;
+  }
+
+} */
 
 
 @media screen and (max-width: 850px) {
@@ -124,7 +163,11 @@ nav ul li a:hover {
 
 }
 
-
+.Information .Citation p {
+  margin-top: 5px;
+  font-size: 10px;
+  color: rgba(0, 0, 0, 1);
+}
 
 .Citation p {
   margin-top: 5px;
@@ -153,8 +196,9 @@ body .Information {
 }
 
 .MobileInfo {
-	
-	justify-content: center;
+
+justify-content: center;
+
 
 }
 
@@ -256,6 +300,21 @@ section.Links ul li a {
   font-size: 1.1vw;
 }
 
+.MobileInfo .url abbr {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: rgba(0, 174, 239, 1);
+  display: inline-block;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.MobileInfo .url {
+  margin-bottom: 20px;
+}
+
  .overlay abbr {
   color: white;
   font-weight: 600;
@@ -302,6 +361,7 @@ button.primaryContained {
 	border-radius: 5px;
   text-transform: uppercase;
   font-weight: 600;
+  text-decoration: none;
 }
 
 .Email abbr{
@@ -313,6 +373,7 @@ button.primaryContained {
   color: white;
   font-family:'Montserrat', sans-serif;
   font-size: 14px;
+
 }
 
 h2 {
