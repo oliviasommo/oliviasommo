@@ -75,7 +75,6 @@ header::after {
   float: right;
   margin-left: auto;
   margin-right: auto;
-  margin-top:20px;
 }
 
 .mobile li {
@@ -200,7 +199,6 @@ section.Links ul li a {
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 600;
-  margin-top:20px;
 }
 
 .row {
@@ -362,4 +360,8 @@ h3 {
   margin-bottom: 30px;
   font-weight: 600;
   text-transform: uppercase;
+}
+
+End {
+	margin-bottom: 10px;
 }
