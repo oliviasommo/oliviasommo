@@ -1,6 +1,9 @@
 /* Add your own styles here! I've started by adding a red background to your page. Feel free to change or remove it! */
-html {
-  background-image: url(background.pdf);
+
+body {
+
+  font-family:'Montserrat', sans-serif;
+  margin: 0px;
 }
 
 body {
