@@ -350,7 +350,7 @@ h3 {
   text-transform: uppercase;
 }
 
-.End p {
+.End h4 {
   margin-left: 7px;
   margin-bottom: 20px;
   font-size: 10px;
@@ -362,6 +362,7 @@ h3 {
   text-transform: uppercase;
 }
 
-.End {
-	margin-bottom: 10px;
+.bottom {
+  padding-bottom: 5px;
 }
+
