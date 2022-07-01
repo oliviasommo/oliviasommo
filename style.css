@@ -259,7 +259,7 @@ section.Links ul li a {
   transition: .5s ease;
 }
 
-.containerFULL:hover .container:active .overlay {
+.containerFULL:hover .overlay {
   width: 100%;
 }
 
