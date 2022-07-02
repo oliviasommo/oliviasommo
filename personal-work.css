@@ -8,15 +8,7 @@ body {
   
 }
 
-body a:link {
-  text-decoration: none;
-	
-}
-
-body a:hover { 
-  text-decoration: none; 
-}
-
+input { outline: none; }
 
 h1 {
   font-size: 14px;
