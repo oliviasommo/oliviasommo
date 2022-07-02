@@ -279,6 +279,10 @@ section.Links ul li a {
   width: 100%;
 }
 
+a:hover { 
+  text-decoration: none; 
+}
+
 .container:hover .overlay {
   text-decoration:none;
   width: 100%;
