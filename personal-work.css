@@ -8,7 +8,8 @@ body {
   
 }
 
-input { outline: none; }
+input {-webkit-appearance: none; box-shadow: none !important; }
+:-webkit-autofill { color: #fff !important; }
 
 h1 {
   font-size: 14px;
