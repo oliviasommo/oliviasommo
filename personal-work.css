@@ -106,6 +106,10 @@ nav ul li a:hover {
   text-decoration:none;
 }
 
+nav ul li a:hover .overlay abbr {
+  text-decoration: none;
+}
+
 /* @media screen and (max-width: 1000px) {
   header {
     height: 250px;
