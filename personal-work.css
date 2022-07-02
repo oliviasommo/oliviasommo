@@ -311,6 +311,7 @@ section.Links ul li a {
 }
 
  .overlay abbr {
+  outline: 0;
   color: white;
   font-weight: 600;
   font-size: 3vw;
