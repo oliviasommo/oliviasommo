@@ -5,6 +5,9 @@ body {
   font-family:'Montserrat', sans-serif;
   margin: 0px;
   padding: 0px;
+  margin-left: 0px;
+  margin-right: 00px;
+  margin-top: 50px;
 }
 
 h1 {
@@ -15,10 +18,14 @@ h1 {
   text-transform: uppercase;
 }
 
+.O img{
+ max-width: 200px;
+ float: left;
+ padding-left: 10px;
+}
+
 header {
   margin-left: 100px;
-  margin-right: 100px;
-  margin-top: 50px;
 }
 
 header::after {
@@ -27,12 +34,9 @@ header::after {
   clear: both;
 }
 
-/* .O img{
-  padding-top: 15px;
-  max-width: 40px;
-  float: left;
-  padding-left: 10px;
-} */
+.TitleImage {
+ margin-top: 100px;
+}
 
 .desktop {
   margin-left: 30px;
@@ -71,15 +75,13 @@ header::after {
 }
 
 .mobile ul {
--webkit-appearance: none;
   justify-content: center;
 }
 
 .mo2 {
- -webkit-appearance: none;
   margin-top: 250px;
   margin-bottom: 250px;
-  margin-left: 30px;
+  margin-left: 100px;
 }
 
 .mo2 abbr {
@@ -94,7 +96,6 @@ header::after {
 }
 
 .mo2 p{
--webkit-appearance: none;
   color:rgba(0, 174, 239, 1);
   margin-top: 0px;
   font-weight: 200;
@@ -109,29 +110,38 @@ header::after {
 }
 
 .Title2 {
-  margin-top: 150px;
-  margin-bottom: 80px;
-  margin-left: 30px;
+  margin-top: -100px;
+  margin-left: 20px;
+  margin-bottom: 20px;
 }
 
 .Title2 abbr {
- -webkit-appearance: none;
- color:black;
- text-transform:inherit;
- font-size: 16px;
- font-weight: 500;
+ color: white;
+ text-transform:uppercase;
+ font-size: 25px;
+ font-weight: 700;
  text-decoration: none;
  max-width: 204px;
  justify-content: center;
- margin-bottom: 0px;
 }
 
 .Title2 p {
+  color: white;
+  text-decoration:none;
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: 500;
+  padding-bottom: 5px;
+}
+
+.PTitle h1 {
   color: black;
   text-decoration:none;
   text-transform: uppercase;
   font-size: 16px;
   font-weight: 200;
+  padding-bottom: 10px;
+  padding-top: 10px;
 }
 
 nav ul li a:hover {
@@ -183,6 +193,15 @@ nav ul li a:hover {
 
 }
 
+.Information .row {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.Information .container {
+  padding-top: 30px;
+}
+
 .Information .Citation p {
   margin-top: 5px;
   font-size: 10px;
@@ -210,13 +229,24 @@ body .Information {
 
 }
 
+.DesktopImages .container .url {
+  margin-top: 20px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.DesktopImages {
+  margin-right: 100px;
+  margin-left: 100px; 
+}
+
 .MobileInfo {
   display: none;
 
 }
 
 .MobileInfo h1 {
-  padding-left: 10px;
+  padding-left: 0px;
   padding-right: 10px;
 }
 
@@ -230,9 +260,14 @@ body .Information {
   padding-right: 10px;
 }
 
-.MobileInfo .Text {
+.MobileInfo .MobileText {
   padding-left: 30px;
   padding-right: 30px;
+  padding-bottom: 18px;
+}
+
+.MobileInfo .MobileText p {
+  font-size: 12px;
 }
 
 .Links {
@@ -414,8 +449,14 @@ body .Information {
 
   body .Information {
     display: none;
+    }
+
+ .DesktopImages {
+    display: none;
   }
-}
+
+  }
+
 
 button.primaryContained {
 	background:rgba(0, 174, 239, 1);
