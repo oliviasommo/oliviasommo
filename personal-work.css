@@ -933,10 +933,10 @@ ol, li {
     -webkit-appearance: none;
     color:rgba(0, 174, 239, 1);
     text-transform: uppercase;
-    font-size: 50px;
+    font-size: 30px;
     font-weight: 400;
     text-decoration: none;
-    max-width: 204px;
+    max-width: 100px;
     justify-content: center;
    }
    
