@@ -89,7 +89,7 @@ header::after {
 .mo2 {
   margin-top: 100px;
   margin-bottom: 100px;
-  margin-left: 100px;
+  margin-left: 100px; 
 }
 
 .mo2 abbr {
@@ -207,6 +207,10 @@ nav ul li a:hover {
   }
 
   header .desktop {
+    display: none;
+  }
+
+  .mo2 {
     display: none;
   }
 
@@ -918,6 +922,31 @@ ol, li {
   .dropdown {
     display: grid; 
   }
+
+  .mo2mobile {
+    margin-top: 0px;
+    margin-bottom: 100px;
+    margin-left: 20px; 
+  }
+
+  .mo2mobile abbr {
+    -webkit-appearance: none;
+    color:rgba(0, 174, 239, 1);
+    text-transform: uppercase;
+    font-size: 50px;
+    font-weight: 400;
+    text-decoration: none;
+    max-width: 204px;
+    justify-content: center;
+   }
+   
+   .mo2mobile p{
+     color:rgba(0, 174, 239, 1);
+     margin-top: 0px;
+     font-weight: 200;
+     font-size: 20px;
+     text-transform: uppercase;
+   }
 
   .mobile li {
     display: block;
