@@ -707,7 +707,7 @@ ol, li {
 }
 
 .carouselMobile {
-  max-width: 350px;
+  max-width: 384px;
   margin: auto;
   padding: 0 rem;
   font-family: 'Lato', sans-serif;
@@ -860,7 +860,7 @@ ol, li {
   content: '';
   z-index: 1;
   background-color: #333;
-  background-size: .5rem .5rem;
+  background-size: 0rem 0rem;
   background-repeat: no-repeat;
   background-position: center center;
   pointer-events: none;
