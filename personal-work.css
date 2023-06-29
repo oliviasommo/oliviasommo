@@ -860,7 +860,7 @@ ol, li {
   content: '';
   z-index: 1;
   background-color: #333;
-  background-size: 0rem 0rem;
+  background-size: .25rem .25rem;
   background-repeat: no-repeat;
   background-position: center center;
   pointer-events: none;
