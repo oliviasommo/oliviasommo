@@ -277,13 +277,11 @@ nav ul li a:hover {
 }
 
 .Information p {
-  font-family: 'Montserrat',sans-serif;
   margin-right: 30px;
   font-size: 1.1vw;
 }
 
 .Information-right p {
-  font-family: 'Montserrat',sans-serif;
   margin-left: 50px;
   font-size: 1.1vw;
 }
