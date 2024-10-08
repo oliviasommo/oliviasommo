@@ -1,12 +1,10 @@
 /* Add your own styles here! I've started by adding a red background to your page. Feel free to change or remove it! */
 
 body {
-
-  font-family:'Karla', sans-serif;
-  margin: 0px;
-  padding: 0px;
-  margin-left: 0px;
-  margin-right: 00px;
+  font-family: "Karla", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
   margin-top: 50px;
 }
 
@@ -75,6 +73,7 @@ header::after {
 }
 
 .Information-right .url{
+  font-family: 'Karla';
   margin-bottom: 20px;
   font-size: 14px;
   font-weight: 600;
