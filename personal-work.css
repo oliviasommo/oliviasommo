@@ -53,7 +53,6 @@ header::after {
   display: inline-block;
   margin-left: 0px;
   margin-right: 50px;
-  margin-top: 30px;
 
 }
 
@@ -373,13 +372,7 @@ body .Information {
   width: 100%;
 }
 
-.header-row {
-  padding: 0;
-  margin-top: 0px;
-}
-
 .header-row img {
-  margin-top: 0px;
   vertical-align: top;
 }
 
