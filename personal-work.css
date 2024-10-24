@@ -93,7 +93,7 @@ header::after {
 
 .mo2 abbr {
  -webkit-appearance: none;
- color:rgba(47, 95, 227, 1);
+ color:rgba(236, 0, 135, 1);
  font-size: 50px;
  font-weight: 600;
  text-decoration: none;
@@ -101,7 +101,7 @@ header::after {
 }
 
 .mo2 p{
-  color:rgba(47, 95, 227, 1);
+  color:black;
   margin-top: 0px;
   font-weight: 400;
   font-size: 20px;
@@ -234,7 +234,7 @@ nav ul li a:hover {
   }
 
   .dropdown-content a {
-    color:rgba(0, 174, 239, 1);
+    color:black;
     padding: 15px;
     text-decoration: none;
     display: block;
@@ -351,7 +351,7 @@ body .Information {
 }
 
 .Links ul li a {
-  color:rgba(0, 174, 239, 1);
+  color:rgba(236, 0, 135, 1);
   display: inline-block;
   text-decoration: none;
   text-transform: uppercase;
@@ -416,7 +416,7 @@ body .Information {
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: rgba(47, 95, 227, 1);
+  background-color: rgba(236, 0, 135, 1);
   overflow: hidden;
   width: 0;
   height: 100%;
@@ -434,7 +434,7 @@ body .Information {
 .url abbr {
   margin-top: 10px;
   margin-bottom: 10px;
-  color: rgba(0, 174, 239, 1);
+  color: rgba(236, 0, 135, 1);
   display: inline-block;
   text-decoration: none;
   text-transform: uppercase;
@@ -872,7 +872,7 @@ ol, li {
 .MobileInfo .url abbr {
   margin-top: 10px;
   margin-bottom: 10px;
-  color: rgba(47, 95, 227, 1);
+  color: rgba(236, 0, 135, 1);
   display: inline-block;
   text-decoration: none;
   text-transform: uppercase;
@@ -926,7 +926,7 @@ ol, li {
 
   .mo2mobile abbr {
     -webkit-appearance: none;
-    color:rgba(47, 95, 227, 1);
+    color:black;
     font-size: 30px;
     font-weight: 600;
     text-decoration: none;
@@ -934,7 +934,7 @@ ol, li {
    }
    
    .mo2mobile p{
-     color:rgba(47, 95, 227, 1);
+     color:black;
      margin-top: 0px;
      font-weight: 400;
      font-size: 20px;
@@ -953,7 +953,7 @@ ol, li {
     justify-content: center;
     margin-top: 20px;
     display: block;
-    color:rgba(47, 95, 227, 1);
+    color:rgba(236, 0, 135, 1);
     text-decoration: none;
     text-transform: uppercase;
     font-size: 30px;
@@ -979,7 +979,7 @@ ol, li {
   }
 
 button.primaryContained {
-	background:rgba(47, 95, 227, 1);
+	background:rgba(236, 0, 135, 1);
 	color: white;
 	padding: 10px 10px;
 	border: none;
