@@ -85,15 +85,13 @@ header::after {
 }
 
 .mo2 {
-  margin-top: 20px;
+  margin-top: 100px;
   margin-bottom: 100px;
-  margin-left: 100px; 
 }
 
 .mo2 abbr {
  -webkit-appearance: none;
  color:rgba(236, 0, 135, 1);
- font-size: 90px;
  font-weight: 600;
  text-decoration: none;
  max-width: 204px;
@@ -101,10 +99,10 @@ header::after {
 
 .mo2 p{
   color:black;
-  margin-top: 0px;
-  font-weight: 400;
-  font-size: 20px;
-  text-transform: uppercase;
+  margin-top: 30px;
+  font-weight: 800;
+  font-size: 100px;
+  text-transform: capitalize;
 }
 
 .mo2 img {
