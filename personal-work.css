@@ -384,6 +384,7 @@ body .Information {
 }
 
 .containerFULL {
+  padding-bottom: 10px;
   position:  relative;
   width: 100%;
 }
