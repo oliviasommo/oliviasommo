@@ -85,8 +85,8 @@ header::after {
 }
 
 .mo2 {
-  margin-top: 100px;
-  margin-bottom: 100px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .mo2 abbr {
@@ -911,7 +911,7 @@ ol, li {
 
   .mo2mobile {
     margin-top: 0px;
-    margin-bottom: 100px;
+    margin-bottom: 10px;
     margin-left: 20px; 
   }
 
