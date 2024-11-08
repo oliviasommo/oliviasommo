@@ -80,16 +80,8 @@ header::after {
 }
 
 .mo2 {
-  margin-top: 100px;
-  margin-bottom: 100px;
-}
-
-.mo2 abbr {
- -webkit-appearance: none;
- color:rgba(236, 0, 135, 1);
- font-weight: 600;
- text-decoration: none;
- max-width: 204px;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 .mo2 p {
@@ -98,6 +90,14 @@ header::after {
   font-size: 80px;
   text-transform: capitalize;
   line-height: 40px;
+}
+
+.mo2 abbr {
+ -webkit-appearance: none;
+ color:rgba(236, 0, 135, 1);
+ font-weight: 600;
+ text-decoration: none;
+ max-width: 204px;
 }
 
 .Title2 {
@@ -908,7 +908,7 @@ ol, li {
   }
 
   .mo2mobile p{
-    color:black;
+    color:rgba(236, 0, 135, 1);
     margin-top: 30px;
     font-weight: 300;
     line-height: 10px;
