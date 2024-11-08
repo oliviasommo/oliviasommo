@@ -923,7 +923,7 @@ ol, li {
     text-transform: capitalize;
   }
 
-  .mo2mobile {
+  .mo2mobile abbr {
     -webkit-appearance: none;
     color:black;
     font-size: 30px;
