@@ -94,8 +94,8 @@ header::after {
 
 .mo2 p {
   color:black;
-  font-weight: 800;
-  font-size: 60px;
+  font-weight: 300;
+  font-size: 80px;
   text-transform: capitalize;
   line-height: 40px;
 }
