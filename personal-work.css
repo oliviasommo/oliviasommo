@@ -246,6 +246,10 @@ nav ul li a:hover {
   margin-top: 20px;
 }
 
+.container {
+  padding-right: 10px;
+}
+
 .Information .row {
   margin-right: 100px;
 }
