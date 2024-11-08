@@ -909,7 +909,8 @@ ol, li {
     color:black;
     margin-top: 30px;
     font-weight: 800;
-    font-size: 100px;
+    line-height: 10px;
+    font-size: 50px;
     text-transform: capitalize;
   }
 
