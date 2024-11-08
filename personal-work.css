@@ -915,6 +915,14 @@ ol, li {
     margin-left: 20px; 
   }
 
+  .mo2mobile p{
+    color:black;
+    margin-top: 30px;
+    font-weight: 800;
+    font-size: 100px;
+    text-transform: capitalize;
+  }
+
   .mo2mobile abbr {
     -webkit-appearance: none;
     color:black;
