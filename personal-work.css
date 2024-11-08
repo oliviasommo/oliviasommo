@@ -242,6 +242,10 @@ nav ul li a:hover {
 
 }
 
+.row {
+  margin-top: 20px;
+}
+
 .Information .row {
   margin-right: 100px;
 }
