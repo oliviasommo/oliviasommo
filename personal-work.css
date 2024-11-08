@@ -923,6 +923,15 @@ ol, li {
     text-transform: capitalize;
   }
 
+  .mo2mobile {
+    -webkit-appearance: none;
+    color:black;
+    font-size: 30px;
+    font-weight: 600;
+    text-decoration: none;
+    max-width: 100px;
+   }
+
   .mobile li {
     display: block;
     margin-left: 0px;
