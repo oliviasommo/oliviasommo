@@ -82,13 +82,13 @@ header::after {
 .mo2 {
   margin-top: 50px;
   margin-bottom: 50px;
+  background-image: url("squares.jpg");
 }
 
 .mo2 p {
-  color:black;
-  font-weight: 300;
-  font-size: 80px;
-  text-transform: capitalize;
+  color:rgba(236, 0, 135, 1);
+  font-weight: 800;
+  font-size: 70px;
   line-height: 40px;
 }
 
@@ -910,7 +910,7 @@ ol, li {
   .mo2mobile p{
     color:rgba(236, 0, 135, 1);
     margin-top: 30px;
-    font-weight: 300;
+    font-weight: 800;
     line-height: 10px;
     font-size: 40px;
     text-transform: capitalize;
