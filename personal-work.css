@@ -249,7 +249,7 @@ nav ul li a:hover {
   margin-top: 20px;
 }
 
-.container {
+.child {
   margin-right: 20px;
 }
 
@@ -257,7 +257,7 @@ nav ul li a:hover {
   margin-right: 100px;
 }
 
-.Information .container {
+.Information .child {
   padding-top: 30px;
 }
 
@@ -292,7 +292,7 @@ body .Information {
 
 }
 
-.DesktopImages .container .url {
+.DesktopImages .child .url {
   margin-top: 20px;
   margin-left: 100px;
   margin-right: 100px;
@@ -392,7 +392,7 @@ body .Information {
   width: 100%;
 }
 
-.container {
+.child {
   position: relative;
   width: 50%;
 }
@@ -415,11 +415,11 @@ body .Information {
   transition: .5s ease;
 }
 
-.containerFULL:hover .overlay {
+.childFULL:hover .overlay {
   width: 100%;
 }
 
-.container:hover .overlay {
+.child:hover .overlay {
   width: 100%;
 }
 
