@@ -33,9 +33,9 @@ header::after {
 }
 
 .parent {
-  display: grid; 
-  grid-template-columns: auto auto auto auto;
-  grid-template-rows: auto auto auto auto;
+  display: inline-grid; 
+  grid-template-columns: auto auto;
+  grid-template-rows: auto auto auto auto auto;
   justify-content: space-evenly;
   gap: 10px;
   padding: 10px;
@@ -249,7 +249,7 @@ nav ul li a:hover {
   margin-top: 20px;
 }
 
-.child {
+.container {
   margin-right: 20px;
 }
 
@@ -257,7 +257,7 @@ nav ul li a:hover {
   margin-right: 100px;
 }
 
-.Information .child {
+.Information .container {
   padding-top: 30px;
 }
 
@@ -292,7 +292,7 @@ body .Information {
 
 }
 
-.DesktopImages .child .url {
+.DesktopImages .container .url {
   margin-top: 20px;
   margin-left: 100px;
   margin-right: 100px;
@@ -392,7 +392,7 @@ body .Information {
   width: 100%;
 }
 
-.child {
+.container {
   position: relative;
   width: 50%;
 }
@@ -415,11 +415,11 @@ body .Information {
   transition: .5s ease;
 }
 
-.childFULL:hover .overlay {
+.containerFULL:hover .overlay {
   width: 100%;
 }
 
-.child:hover .overlay {
+.container:hover .overlay {
   width: 100%;
 }
 
