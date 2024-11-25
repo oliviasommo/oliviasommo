@@ -249,10 +249,6 @@ nav ul li a:hover {
   margin-top: 20px;
 }
 
-.container {
-  margin-right: 20px;
-}
-
 .Information .row {
   margin-right: 100px;
 }
@@ -392,10 +388,10 @@ body .Information {
   width: 100%;
 }
 
-.container {
+/* .container {
   position: relative;
   width: 50%;
-}
+} */
 
 .image {
   display: block;
