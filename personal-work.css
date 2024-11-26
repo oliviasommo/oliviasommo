@@ -403,7 +403,7 @@ body .Information {
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: rgba(0, 0, 0, 0.491);
+  background-color: rgba(0, 0, 0, 0.5);
   overflow: hidden;
   width: 0;
   height: 100%;
@@ -419,7 +419,7 @@ body .Information {
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: rgba(0, 0, 0, 0.491);
+  background-color: rgba(0, 0, 0, 0.5);
   overflow: hidden;
   width: 0;
   height: 100%;
@@ -891,7 +891,7 @@ ol, li {
  outline: 0;
  color: white;
  font-weight: 700;
- font-size: 5vw;
+ font-size: 9vw;
  position: absolute;
  top: 50%;
  left: 50%;
