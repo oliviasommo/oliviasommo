@@ -399,7 +399,7 @@ body .Information {
     height: auto;
   }
 
-.container .overlay {
+.overlay {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -415,7 +415,7 @@ body .Information {
   width: 100%;
 }
 
-.parent .container:hover .overlay {
+.container:hover .overlay {
   width: 100%;
 }
 
