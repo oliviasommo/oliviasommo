@@ -387,11 +387,11 @@ body .Information {
   width: 100%;
 } 
 
-/*.image {
+.image {
   display: block;
-    width: 100%;
+    width: auto;
     height: auto;
-  } */
+  } 
 
 .containerFULL .overlay {
   position: absolute;
