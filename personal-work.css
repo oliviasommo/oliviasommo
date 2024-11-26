@@ -373,22 +373,13 @@ body .Information {
   width: 50%;
 }
 
-.parent {
-  display: grid; 
-  grid-template-columns:  auto auto;
-  grid-template-rows: auto auto auto auto auto;
-  justify-content: space-evenly;
-  gap: 10px;
-  padding: 10px;
-}
-
 .containerFULL {
   position:  relative;
   width: 100%;
 }
 
 .container {
-  position: relative;
+  position: absolute;
   width: 50%;
 }
 
@@ -397,6 +388,15 @@ body .Information {
     width: 100%;
     height: auto;
   }
+
+.parent {
+    display: grid; 
+    grid-template-columns:  auto auto;
+    grid-template-rows: auto auto auto auto auto;
+    justify-content: space-evenly;
+    gap: 10px;
+    padding: 10px;
+}
 
 .containerFULL .overlay {
   position: absolute;
