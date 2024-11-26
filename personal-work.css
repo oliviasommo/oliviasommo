@@ -238,7 +238,7 @@ nav ul li a:hover {
 
 .parent {
   display: grid; 
-  grid-template-columns: auto auto auto auto;
+  grid-template-columns: auto auto;
   grid-template-rows: auto auto auto auto auto;
   justify-content: space-evenly;
   gap: 10px;
@@ -293,11 +293,6 @@ body .Information {
   margin-left: 100px;
   margin-right: 100px;
 } */
-
-.DesktopImages {
-  margin-right: 100px;
-  margin-left: 100px;
-}
 
 .MobileInfo {
   display: none;
