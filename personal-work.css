@@ -430,7 +430,7 @@ body .Information {
   width: 100%;
 }
 
-.container:hover .overlay {
+.parent:hover .container .overlay {
   width: 100%;
 }
 
