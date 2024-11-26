@@ -415,7 +415,7 @@ body .Information {
   width: 100%;
 }
 
-.container:hover .overlay {
+.parent .container:hover .overlay {
   width: 100%;
 }
 
