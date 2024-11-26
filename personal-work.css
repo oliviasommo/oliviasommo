@@ -34,7 +34,7 @@ header::after {
 
 .parent {
   display: grid; 
-  grid-template-columns: auto auto auto;
+  grid-template-columns:  auto auto;
   grid-template-rows: auto auto auto auto auto;
   justify-content: space-evenly;
   gap: 10px;
@@ -426,7 +426,7 @@ body .Information {
   transition: .5s ease;
 }
 
-.container:hover .overlay {
+.containerFULL:hover .overlay {
   width: 100%;
 }
 
