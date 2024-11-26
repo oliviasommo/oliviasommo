@@ -387,10 +387,10 @@ body .Information {
   width: 100%;
 }
 
-/* .container {
+.container {
   position: relative;
   width: 50%;
-} */
+} 
 
 .image {
   display: block;
