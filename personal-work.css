@@ -383,7 +383,6 @@ body .Information {
 }
 
 .containerFULL {
-  padding-bottom: 10px;
   position:  relative;
   width: 100%;
 }
@@ -412,6 +411,22 @@ body .Information {
 }
 
 .containerFULL:hover .overlay {
+  width: 100%;
+}
+
+.container .overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.491);
+  overflow: hidden;
+  width: 0;
+  height: 100%;
+  transition: .5s ease;
+}
+
+.container:hover .overlay {
   width: 100%;
 }
 
