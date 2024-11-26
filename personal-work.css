@@ -32,15 +32,6 @@ header::after {
  margin-top: 100px;
 }
 
-.parent {
-  display: grid; 
-  grid-template-columns:  auto auto;
-  grid-template-rows: auto auto auto auto auto;
-  justify-content: space-evenly;
-  gap: 10px;
-  padding: 10px;
-}
-
 .desktop {
   margin-left: 30px;
   margin-right: auto;
@@ -432,6 +423,15 @@ body .Information {
 
 .parent:hover .container .overlay {
   width: 100%;
+}
+
+.parent {
+  display: grid; 
+  grid-template-columns:  auto auto;
+  grid-template-rows: auto auto auto auto auto;
+  justify-content: space-evenly;
+  gap: 10px;
+  padding: 10px;
 }
 
 .url abbr {
@@ -891,7 +891,7 @@ ol, li {
  outline: 0;
  color: white;
  font-weight: 700;
- font-size: 3vw;
+ font-size: 5vw;
  position: absolute;
  top: 50%;
  left: 50%;
