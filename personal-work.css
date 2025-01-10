@@ -235,7 +235,6 @@ nav ul li a:hover {
 }
 
 .parent {
-  max-width: 100%;
   display: inline-grid; 
   grid-template-columns: auto auto auto auto auto;
   gap: 10px;
