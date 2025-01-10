@@ -245,6 +245,8 @@ nav ul li a:hover {
   justify-content: space-evenly;
   gap: 10px;
   padding: 10px;
+  max-width: 80px;
+  max-height: 80px;
 }
 
 .parent .container {
