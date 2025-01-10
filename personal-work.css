@@ -35,13 +35,11 @@ header::after {
 
 .grid {
   display: grid;
-  grid-template-columns: auto auto auto;
+  grid-template-columns: auto auto auto auto auto;
   padding: 10px;
 }
 
 .grid > div {
-  width: 100px;
-  height: 100px;
   padding: 20px;
   font-size: 30px;
   text-align: center;
