@@ -30,9 +30,6 @@ header::after {
   clear: both;
 }
 
-.tagline {
-}
-
 .TitleImage {
  margin-top: 100px;
 }
@@ -239,7 +236,7 @@ nav ul li a:hover {
 
 .parent {
   display: inline-grid; 
-  grid-template-columns: auto auto auto;
+  grid-template-columns: auto auto auto auto auto;
   gap: 10px;
   padding: 10px;
 }
