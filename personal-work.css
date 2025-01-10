@@ -36,10 +36,6 @@ header::after {
   background-color: black;
 }
 
-.TitleImage {
- margin-top: 100px;
-}
-
 .desktop {
   margin-right: auto;
   float: right;
