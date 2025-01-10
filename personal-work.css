@@ -201,7 +201,7 @@ nav ul li a:hover {
 
   .dropbtn {
     background-color: none;
-    color: white;
+    color: none;
     padding: 15px;
     font-size: 16px;
     border: none;
