@@ -29,7 +29,7 @@ header::after {
 }
 
 .tagline {
-  background-image: -moz-linear-gradient(#ee9ca7,#ffdde1);
+  background-image: linear-gradient(#ee9ca7,#ffdde1);
 }
 
 .TitleImage {
