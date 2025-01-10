@@ -6,6 +6,7 @@ body {
   font-weight: weight;
   font-style: normal;
   margin-top: 50px;
+  background-image: -moz-linear-gradient(#ee9ca7,#ffdde1);
 }
 
 h1 {
@@ -20,10 +21,6 @@ h1 {
  max-width: 180px;
  float: left;
  margin-left: 20px;
-}
-
-header {
-  background-image: -moz-linear-gradient(#ee9ca7,#ffdde1);
 }
 
 header::after {
