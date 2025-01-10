@@ -241,7 +241,6 @@ nav ul li a:hover {
   display: inline-grid; 
   height: 100vh;
   width: 100vw;
-  position: absolute;
   gap: 10px;
   padding: 10px;
 }
