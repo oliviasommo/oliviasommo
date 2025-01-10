@@ -35,11 +35,11 @@ header::after {
 
 .DesktopImages {
   max-width: 100%;
-  display: grid;
-  grid-template-columns: auto, auto, auto, auto;
 }
 
-.parent {
+.DesktopImages .parent {
+  display: grid;
+  grid-template-columns: auto, auto, auto, auto;
   gap: 10px;
   padding: 10px;
 }
