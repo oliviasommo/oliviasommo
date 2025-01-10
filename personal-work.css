@@ -80,9 +80,6 @@ header::after {
 }
 
 .tagline {
-  margin-top: 50px;
-  margin-bottom: 50px;
-  margin-left: 20px;
   background-color: blanchedalmond;
 }
 
@@ -91,6 +88,9 @@ header::after {
   font-weight: 800;
   font-size: 70px;
   line-height: 40px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 20px;
 }
 
 .mo2 abbr {
