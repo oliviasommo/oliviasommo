@@ -81,7 +81,7 @@ header::after {
 
 .tagline {
   background-color: black;
-  margin-inline: auto;
+  margin-inline-end: 0%;
 }
 
 .mo2 p {
