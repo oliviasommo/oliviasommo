@@ -383,6 +383,7 @@ body .Information {
 }
 
 .container {
+  position: relative;
   max-width: 100%;
 } 
 
