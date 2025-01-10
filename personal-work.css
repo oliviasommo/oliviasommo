@@ -7,7 +7,6 @@ body {
   font-style: normal;
   margin-top: 50px;
   background-image: linear-gradient(white,#f857a6, #ff5858);
-  max-width: 100%;
 }
 
 h1 {
@@ -240,7 +239,11 @@ nav ul li a:hover {
 
 .parent {
   display: inline-grid; 
-  grid-template-columns: auto auto auto auto auto;
+  grid-template-columns: repeat(2, 1fr) 30px;     /*also tried auto in place of 1fr*/
+  grid-template-rows: repeat(2,1fr);
+  height: 100vh;
+  width: 100vw;
+  position: absolute;
   gap: 10px;
   padding: 10px;
 }
