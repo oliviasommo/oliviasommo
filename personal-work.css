@@ -384,7 +384,7 @@ body .Information {
 
 .container {
   position: relative;
-  width: 100%;
+  max-width: ;width: 100%;
 } 
 
 .image {
