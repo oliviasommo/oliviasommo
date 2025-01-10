@@ -44,11 +44,6 @@ header::after {
   padding: 10px;
 }
 
-.item1 {
-  grid-column-start: 1;
-  grid-column-end: 2;
-}
-
 .desktop {
   margin-right: auto;
   float: right;
