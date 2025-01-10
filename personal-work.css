@@ -239,8 +239,6 @@ nav ul li a:hover {
 
 .parent {
   display: inline-grid; 
-  grid-template-columns: repeat(2, 1fr) 30px;     /*also tried auto in place of 1fr*/
-  grid-template-rows: repeat(2,1fr);
   height: 100vh;
   width: 100vw;
   position: absolute;
