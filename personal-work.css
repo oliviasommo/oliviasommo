@@ -35,6 +35,8 @@ header::after {
 
 .DesktopImages {
   max-width: 100%;
+  display: grid;
+  grid-template-columns: auto, auto, auto, auto;
 }
 
 .parent {
