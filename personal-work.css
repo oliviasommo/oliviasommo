@@ -22,10 +22,18 @@ h1 {
  margin-left: 20px;
 }
 
+.navbar {
+  background-color: blue;
+}
+
 header::after {
   content:'';
   display: table;
   clear: both;
+}
+
+.tagline {
+  background-color: black;
 }
 
 .TitleImage {
@@ -77,11 +85,6 @@ header::after {
 
 .mobile ul {
   justify-content: center;
-}
-
-.tagline {
-  background-color: black;
-  margin-inline-end: 0%;
 }
 
 .mo2 p {
