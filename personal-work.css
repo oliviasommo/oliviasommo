@@ -61,7 +61,7 @@ header::after {
 }
 
 .DesktopImages {
-  max-width: 100%;
+  width: fit-content;
 }
 
 .Information .url{
