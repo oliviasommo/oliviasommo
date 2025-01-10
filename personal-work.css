@@ -33,7 +33,7 @@ header::after {
  margin-top: 100px;
 }
 
-.DesktopImages .parent {
+.parent {
   display: grid;
   grid-template-columns: auto, auto, auto, auto;
   gap: 10px;
