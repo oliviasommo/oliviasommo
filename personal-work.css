@@ -240,7 +240,7 @@ nav ul li a:hover {
   display: grid; 
   grid-template-columns: auto auto auto auto;
   grid-template-rows: auto auto auto auto auto;
-  justify-content: space-evenly;
+  justify-content: inline grid;
   gap: 10px;
   padding: 10px;
 }
@@ -960,7 +960,6 @@ ol, li {
     }
 
  .DesktopImages {
-    width: 800px;
     display: none;
   }
 
