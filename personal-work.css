@@ -33,13 +33,13 @@ header::after {
  margin-top: 100px;
 }
 
-.container {
+.grid {
   display: grid;
   grid-template-columns: auto auto auto;
   padding: 10px;
 }
 
-.container > div {
+.grid > div {
   padding: 20px;
   font-size: 30px;
   text-align: center;
@@ -382,7 +382,7 @@ body .Information {
   width: 100%;
 }
 
-.grid {
+.container {
   position: relative;
   max-width: 100%;
 } 
@@ -417,7 +417,7 @@ body .Information {
   width: 100%;
 }
 
-.grid .overlay {
+.container .overlay {
   position: absolute;
   bottom: 0;
   left: 0;
