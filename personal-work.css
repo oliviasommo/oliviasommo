@@ -82,7 +82,8 @@ header::after {
 .mo2 {
   margin-top: 50px;
   margin-bottom: 50px;
-  background-image: url("square.jpg");
+  margin-left: 20px;
+  background-color: blanchedalmond;
 }
 
 .mo2 p {
