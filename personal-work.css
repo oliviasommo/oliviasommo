@@ -6,6 +6,7 @@ body {
   font-weight: weight;
   font-style: normal;
   margin-top: 50px;
+  background-image: linear-gradient(#ee9ca7,#ffdde1);
 }
 
 h1 {
