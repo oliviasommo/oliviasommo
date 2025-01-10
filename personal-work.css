@@ -42,7 +42,11 @@ header::after {
 .grid > div {
   padding: 20px;
   font-size: 30px;
-  max-width: 100px;
+}
+
+.item1 {
+  grid-column-start: 1;
+  grid-column-end: 1;
 }
 
 .desktop {
