@@ -33,12 +33,9 @@ header::after {
  margin-top: 100px;
 }
 
-.DesktopImages {
-  max-width: 800px;
-}
-
 .grid {
   display: grid; 
+  max-width: 800px;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   grid-template-rows: auto auto;
   gap: 10px;
