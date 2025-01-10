@@ -60,6 +60,10 @@ header::after {
   font-weight: 600;
 }
 
+.DesktopImages {
+  max-width: 100%;
+}
+
 .Information .url{
   margin-bottom: 20px;
   font-size: 14px;
