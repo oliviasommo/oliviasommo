@@ -23,7 +23,7 @@ h1 {
 }
 
 header {
-  background-color: blue;
+  background-image: -moz-linear-gradient(#ee9ca7,#ffdde1);
 }
 
 header::after {
