@@ -80,7 +80,8 @@ header::after {
 }
 
 .tagline {
-  background-color: blanchedalmond;
+  background-color: black;
+  margin-inline: auto;
 }
 
 .mo2 p {
