@@ -33,12 +33,16 @@ header::after {
  margin-top: 100px;
 }
 
-.grid {
+.container {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr;
-  gap: 10px;
+  grid-template-columns: auto auto auto;
   padding: 10px;
+}
+
+.container > div {
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
 }
 
 .desktop {
@@ -378,7 +382,7 @@ body .Information {
   width: 100%;
 }
 
-.container {
+.grid {
   position: relative;
   max-width: 100%;
 } 
@@ -409,7 +413,11 @@ body .Information {
   width: 100%;
 }
 
-.container .overlay {
+.container .grid:hover .overlay {
+  width: 100%;
+}
+
+.grid .overlay {
   position: absolute;
   bottom: 0;
   left: 0;
