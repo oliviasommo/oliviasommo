@@ -33,15 +33,13 @@ header::after {
  margin-top: 100px;
 }
 
-.parent {
-  display: grid;
-  grid-template-columns: auto, auto, auto, auto;
-  gap: 10px;
-  padding: 10px;
-}
-
 .DesktopImages {
   max-width: 100%;
+}
+
+.parent {
+  gap: 10px;
+  padding: 10px;
 }
 
 .item1 {
