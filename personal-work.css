@@ -34,7 +34,7 @@ header::after {
 }
 
 .grid {
-  display: inline-grid; 
+  display: grid; 
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   grid-template-rows: auto auto;
   gap: 10px;
@@ -44,10 +44,6 @@ header::after {
 .item1 {
   grid-column-start: 1;
   grid-column-end: 2;
-}
-
-.item2 {
-
 }
 
 .desktop {
