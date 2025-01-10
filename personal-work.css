@@ -33,6 +33,10 @@ header::after {
  margin-top: 100px;
 }
 
+.DesktopImages {
+  max-width: 100&;
+}
+
 .grid {
   display: grid; 
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
