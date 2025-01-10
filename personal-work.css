@@ -246,9 +246,6 @@ nav ul li a:hover {
 }
 
 .parent .container {
-  height: 100vh;
-  width: 100vw;
-  position: absolute;
 }
 
 .row {
