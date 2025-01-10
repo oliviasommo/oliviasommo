@@ -34,9 +34,8 @@ header::after {
 }
 
 .grid {
-  display: inline-grid;
-  grid-template-columns: 1fr, 1fr, 1fr, 1fr, 1fr;
-  grid-template-rows: auto, auto;
+  display: inline-grid; 
+  grid-template-columns: auto auto auto auto auto;
   gap: 10px;
   padding: 10px;
 }
