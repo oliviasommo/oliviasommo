@@ -35,6 +35,7 @@ header::after {
 
 .grid {
   display: grid;
+  grid-column: auto auto;
   padding: 10px;
 }
 
