@@ -35,13 +35,17 @@ header::after {
 
 .grid {
   display: grid;
-  grid-column: auto auto auto;
+  grid-template-columns: auto auto auto auto auto;
   padding: 10px;
 }
 
 .grid > div {
   padding: 20px;
   font-size: 30px;
+}
+
+.container .image {
+  max-width: 100%;
 }
 
 .item1 {
@@ -890,7 +894,7 @@ ol, li {
  outline: 0;
  color: white;
  font-weight: 700;
- font-size: 9vw;
+ font-size: 4vw;
  position: absolute;
  top: 50%;
  left: 50%;
