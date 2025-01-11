@@ -240,11 +240,11 @@ nav ul li a:hover {
     text-transform: uppercase;
   }
 
-  .dropdown-content a:hover {background-color: none;}
+  .dropdown-content a:hover {background-color: rgba(254, 181, 220, 0.2);}
 
   .dropdown:hover .dropdown-content {display: block;}
 
-  .dropdown:hover .dropbtn {background-color: none;} 
+  .dropdown:hover .dropbtn {background-color:#f857a6} 
 
   .Menuimage img {
    max-width: 50px;
