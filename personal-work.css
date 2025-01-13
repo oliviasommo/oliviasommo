@@ -107,7 +107,7 @@ header::after {
 .mo2 p {
   color:rgba(236, 0, 135, 1);
   font-weight: 800;
-  font-size: 12vw;
+  font-size: max(40px,) min(20px)
   line-height: 40px;
   margin-top: 50px;
   margin-bottom: 50px;
@@ -406,19 +406,19 @@ body .Information {
   display: block;
     width: auto;
     height: auto;
-  } 
+} 
 
 .containerFULL .overlay {
   position: absolute;
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: none;
   overflow: hidden;
   width: 0;
   height: 100%;
   transition: .5s ease;
-}
+} 
 
 .containerFULL:hover .overlay {
   width: 100%;
