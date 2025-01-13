@@ -315,7 +315,9 @@ body .Information {
 }
 
 .MobileInfo .overlay abbr {
-  font-size: 9vw;
+  padding-top: 460px;
+  padding-left: 200px;
+  font-size: 7vw;
 }
 
 .MobileInfo h1 {
