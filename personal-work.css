@@ -240,7 +240,7 @@ nav ul li a:hover {
     text-transform: uppercase;
   }
 
-  .dropdown-content a:hover {background-color: rgba(254, 181, 220, 0.2);}
+  .dropdown-content a:hover {background-color: none;}
 
   .dropdown:hover .dropdown-content {display: block;}
 
@@ -980,8 +980,6 @@ ol, li {
 
   .carousel {
     display: none;
-  }
-
   }
 
 button.primaryContained {
