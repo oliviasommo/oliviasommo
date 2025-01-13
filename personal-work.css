@@ -308,11 +308,14 @@ body .Information {
 
 .MobileInfo {
   display: none;
-
 }
 
 .dropdown {
   display: none;
+}
+
+.MobileInfo .overlay abbr {
+  font-size: 8vw;
 }
 
 .MobileInfo h1 {
