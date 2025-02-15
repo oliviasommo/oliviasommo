@@ -6,7 +6,8 @@ body {
   font-weight: weight;
   font-style: normal;
   margin-top: 50px;
-  background-image: linear-gradient(white,#f857a6, #ff5858);
+  background-image: url("images/md.jpg");
+  background-repeat:no-repeat;
 }
 
 h1 {
@@ -29,14 +30,30 @@ header::after {
   clear: both;
 }
 
+.tagline {
+  min-height: 30vw;
+}
+
+.mo2 p {
+  color:rgba(236, 0, 135, 1);
+  font-weight: 200;
+  font-size: 90px;
+  line-height: 40px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 20px;
+}
+
 .TitleImage {
  margin-top: 100px;
 }
 
+
 .grid {
   display: grid;
   grid-template-columns: auto auto auto auto auto;
-  padding: 10px;
+  padding: 5px;
+  background: none;
 }
 
 .grid > div {
@@ -102,16 +119,6 @@ header::after {
 
 .mobile ul {
   justify-content: center;
-}
-
-.mo2 p {
-  color:rgba(236, 0, 135, 1);
-  font-weight: 800;
-  font-size: 90px;
-  line-height: 40px;
-  margin-top: 50px;
-  margin-bottom: 50px;
-  margin-left: 20px;
 }
 
 .mo2 abbr {
