@@ -899,13 +899,14 @@ ol, li {
   }
 
  .MobileDesktop {
-    display: contents;
-    margin-bottom: 20px;
+    display: block;
+    margin-left: 20px;
+    margin-bottom: 40px;
   }
 
   .mo2mobile {
     margin-top: 0px;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
     margin-left: 20px; 
   }
 
@@ -947,8 +948,12 @@ ol, li {
     font-weight: 600;
   }
 
-  .MobileDesktop ul li a{
-    color:rgba(236, 0, 135, 1);
+  .MobileDesktop ul li a abbr{
+    margin-top: auto;
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
   }
 
   body .Information {
