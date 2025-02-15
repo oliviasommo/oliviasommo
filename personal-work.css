@@ -96,7 +96,7 @@ header::after {
 }
 
 .desktop ul li a {
-  color: black;
+  color: white;
   text-decoration:none;
   text-transform: uppercase;
   font-size: 16px;
@@ -217,55 +217,9 @@ nav ul li a:hover {
     padding: 0;
   }
 
-  header .desktop {
-    display: none;
-  }
-
   .mo2 {
     display: none;
   }
-
-  .dropbtn {
-    background-color: none;
-    color:white;
-    padding: 15px;
-    font-size: 16px;
-    border: none;
-  }
-
-  .dropdown {
-    float: right;
-    display: inline-grid;
-  }
-
-  .dropdown-content {
-    display: none;
-    position: relative;
-    background-color: white;
-    min-width: 160px;
-    z-index: 1;
-  }
-
-  .dropdown-content a {
-    color:black;
-    padding: 15px;
-    text-decoration: none;
-    display: block;
-    text-transform: uppercase;
-  }
-
-  .dropdown-content a:hover {background-color: rgba(254, 181, 220, 0.2);}
-
-  .dropdown:hover .dropdown-content {display: block;}
-
-  .dropdown:hover .dropbtn {background-color:#f857a6} 
-
-  .Menuimage img {
-   max-width: 50px;
-   background: none;
-  }
-
-}
 
 .row {
   margin-top: 20px;
