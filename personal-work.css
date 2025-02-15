@@ -6,7 +6,8 @@ body {
   font-weight: weight;
   font-style: normal;
   margin-top: 50px;
-  background-image: url("images/md.jpg");
+  background-image: url("images/dm.jpg");
+  background-size: 100vw auto;
   background-repeat:no-repeat;
 }
 
@@ -35,7 +36,7 @@ header::after {
 }
 
 .mo2 p {
-  color:rgba(236, 0, 135, 1);
+  color: black;
   font-weight: 200;
   font-size: 90px;
   line-height: 40px;
@@ -51,13 +52,14 @@ header::after {
 
 .grid {
   display: grid;
-  grid-template-columns: auto auto auto auto auto;
+  grid-template-columns: auto auto;
+  grid-template-rows: auto, auto, auto, auto, auto;
   padding: 5px;
   background: none;
 }
 
 .grid > div {
-  padding: 20px;
+  padding: 10px;
   font-size: 30px;
 }
 
@@ -260,6 +262,7 @@ nav ul li a:hover {
 
   .Menuimage img {
    max-width: 50px;
+   background: none;
   }
 
 }
@@ -947,10 +950,10 @@ ol, li {
   }
 
   .mo2mobile p{
-    color:rgba(236, 0, 135, 1);
+    color:black;
     margin-top: 30px;
     font-size: max(40px) min(10px);
-    font-weight: 800;
+    font-weight: 200;
     line-height: 10px;
     font-size: 70px;
     text-transform: capitalize;
@@ -1057,3 +1060,4 @@ h3 {
   font-weight: 700;
   text-transform: uppercase;
 }
+	
