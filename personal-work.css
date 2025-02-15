@@ -178,7 +178,7 @@ header::after {
 }
 
 nav ul li a:hover {
-  color:rgba(236, 0, 135, .5);
+  color:black;
   background-color: transparent;
   text-decoration: none;
 }
@@ -220,6 +220,11 @@ nav ul li a:hover {
   .mo2 {
     display: none;
   }
+
+  .MobileDesktop {
+    display: none;
+  }
+}
 
 .row {
   margin-top: 20px;
@@ -710,7 +715,7 @@ ol, li {
   -ms-overflow-style: none;
 }
 
-ol, li {
+.li {
   list-style: none;
   margin: 0;
   padding: 0;
@@ -893,19 +898,20 @@ ol, li {
     padding-top: 0px;
   }
 
-  .dropdown {
-    display: grid; 
+ .MobileDesktop {
+    display: contents;
+    margin-bottom: 20px;
   }
 
   .mo2mobile {
     margin-top: 0px;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
     margin-left: 20px; 
   }
 
   .mo2mobile p{
     color:black;
-    margin-top: 30px;
+    margin-top: 0px;
     font-size: max(40px) min(10px);
     font-weight: 200;
     line-height: 10px;
@@ -941,6 +947,10 @@ ol, li {
     font-weight: 600;
   }
 
+  .MobileDesktop ul li a{
+    color:rgba(236, 0, 135, 1);
+  }
+
   body .Information {
     display: none;
     }
@@ -956,6 +966,11 @@ ol, li {
   .carousel {
     display: none;
   }
+
+  .desktop li a {
+    display: none;
+  }
+}
 
 button.primaryContained {
 	background:rgba(236, 0, 135, 1);
