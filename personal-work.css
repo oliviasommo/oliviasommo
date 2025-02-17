@@ -301,9 +301,20 @@ body .Information {
 }
 
 .MobileInfo .overlay abbr {
-  padding-bottom: 460px;
-  padding-left: 200px;
-  font-size: 7vw;
+  outline: 0;
+  color: white;
+  font-weight: 900;
+  font-size: 4vw;
+  position: absolute;
+  top: 85%;
+  left: 40%;
+  -webkit-appearance: none;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  white-space: nowrap;
+  text-transform: uppercase;
+  text-decoration: none;
 }
 
 .MobileInfo h1 {
@@ -401,7 +412,7 @@ body .Information {
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: none;
+  background-color: rgba(255, 255, 0, 0.451);
   overflow: hidden;
   width: 0;
   height: 100%;
