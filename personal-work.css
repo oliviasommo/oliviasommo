@@ -942,7 +942,7 @@ ol, li {
   .MobileDesktop a abbr {
     display: inline-block;
     text-decoration: none;
-    color: white
+    color: white;
     font-size: 20px;
   }
 
