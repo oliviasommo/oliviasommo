@@ -103,10 +103,6 @@ header::after {
   font-weight: 600;
 }
 
-.Information {
-  margin-left: 20px;
-}
-
 .Information .url{
   margin-bottom: 20px;
   font-size: 14px;
@@ -257,6 +253,7 @@ nav ul li a:hover {
 
 .Information .container {
   padding-top: 30px;
+  margin-left: 20px;
 }
 
 .Information .Citation p {
