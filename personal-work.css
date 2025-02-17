@@ -259,7 +259,7 @@ nav ul li a:hover {
   padding-top: 30px;
   margin-left: 20px;
   float: left;
-  max-width: 500px;
+  max-width: 600px;
 }
 
 .Information .Citation p {
@@ -276,7 +276,7 @@ nav ul li a:hover {
 
 .Information p {
   margin-right: 30px;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 .Information-right p {
