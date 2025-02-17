@@ -344,7 +344,7 @@ body .Information {
 }
 
 .MobileText .container p {
-  
+
 }
 
 .Links {
@@ -1010,7 +1010,7 @@ ol, li {
 }
 
 button.primaryContained {
-	background:rgba(236, 0, 135, 1);
+	background:yellow;
 	color: white;
 	padding: 10px 10px;
 	border: none;
@@ -1031,7 +1031,7 @@ button.primaryContained {
   padding: 0;
   display: inline-block;
   text-decoration: none;
-  color: white;
+  color: rgba(236, 0, 135, 1);
   font-size: 14px;
 }
 
