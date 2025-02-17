@@ -96,7 +96,7 @@ header::after {
 }
 
 .desktop ul li a {
-  color: white;
+  color: black;
   text-decoration:none;
   text-transform: uppercase;
   font-size: 30px;
@@ -178,9 +178,22 @@ header::after {
 }
 
 nav ul li a:hover {
-  color:black;
+  color:yellow;
   background-color: transparent;
   text-decoration: none;
+}
+
+.DesktopEmail {
+  display: block;
+  margin-left: 20px;
+  margin-bottom: 40px;
+}
+
+.DesktopEmail a abbr {
+  display: inline-block;
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
 }
 
 
@@ -222,6 +235,10 @@ nav ul li a:hover {
   }
 
   .MobileDesktop {
+    display: none;
+  }
+
+  .DesktopEmail {
     display: none;
   }
 }
@@ -904,6 +921,13 @@ ol, li {
     margin-bottom: 40px;
   }
 
+  .MobileDesktop a abbr {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+  }
+
   .mo2mobile {
     margin-top: 0px;
     margin-bottom: 20px;
@@ -947,15 +971,7 @@ ol, li {
     font-size: 30px;
     font-weight: 600;
   }
-
-  .MobileDesktop ul li a abbr{
-    margin-top: auto;
-    display: inline-block;
-    text-decoration: none;
-    color: white;
-    font-size: 30px;
-  }
-
+  
   body .Information {
     display: none;
     }
@@ -1001,7 +1017,6 @@ button.primaryContained {
   text-decoration: none;
   color: white;
   font-size: 14px;
-
 }
 
 h2 {
