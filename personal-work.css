@@ -254,6 +254,8 @@ nav ul li a:hover {
 .Information .container {
   padding-top: 30px;
   margin-left: 20px;
+  float: left;
+  max-width: 50px;
 }
 
 .Information .Citation p {
