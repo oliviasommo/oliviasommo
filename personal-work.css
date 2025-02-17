@@ -349,10 +349,6 @@ body .Information {
   font-size: 17px;
 }
 
-.MobileText .container p {
-
-}
-
 .Links {
   display: flex;
   margin-bottom: 50px;
@@ -463,7 +459,7 @@ body .Information {
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 700;
-  font-size: 1.1vw;
+  font-size: 20px;
 }
 
 @keyframes tonext {
