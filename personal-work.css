@@ -272,7 +272,7 @@ nav ul li a:hover {
 
 .Information p {
   margin-right: 30px;
-  font-size: 1.1vw;
+  font-size: 2vw;
 }
 
 .Information-right p {
@@ -942,8 +942,12 @@ ol, li {
   .MobileDesktop a abbr {
     display: inline-block;
     text-decoration: none;
-    color: rgba(236, 0, 135, 1);
+    color: white
     font-size: 20px;
+  }
+
+  .MobileDesktop button.primaryContained {
+    background: rgba(236, 0, 135, 1);
   }
 
   .mo2mobile {
