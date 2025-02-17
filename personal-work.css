@@ -254,6 +254,9 @@ nav ul li a:hover {
 .Information .container {
   padding-top: 30px;
   margin-left: 20px;
+}
+
+.Information .container .text {
   float: left;
   max-width: 300px;
 }
