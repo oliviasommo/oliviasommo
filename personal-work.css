@@ -951,6 +951,7 @@ ol, li {
   }
 
   .MobileDesktop button.primaryContained {
+    text-decoration: none;
     background: rgba(236, 0, 135, 1);
   }
 
