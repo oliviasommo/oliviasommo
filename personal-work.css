@@ -112,6 +112,10 @@ header::after {
   font-weight: 600;
 }
 
+.InformationLeft {
+  position: fixed;
+}
+
 .Information .url{
   margin-bottom: 20px;
   font-size: 14px;
