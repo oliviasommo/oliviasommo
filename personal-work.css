@@ -285,6 +285,7 @@ nav ul li a:hover {
 .Information p {
   margin-right: 30px;
   font-size: 20px;
+  background-color: white;
 }
 
 .Information-right p {
