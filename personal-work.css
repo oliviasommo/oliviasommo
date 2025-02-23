@@ -114,6 +114,7 @@ header::after {
 
 .InformationLeft {
   position: fixed;
+  max-width: 200px;
 }
 
 .Information .url{
