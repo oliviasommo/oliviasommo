@@ -115,7 +115,8 @@ header::after {
 
 .InformationLeft {
   position: fixed;
-  max-width: 200px;
+  margin-left: 30px;
+  background-color: white;
 }
 
 .imageleft {
@@ -291,7 +292,6 @@ nav ul li a:hover {
 .Information p {
   margin-right: 30px;
   font-size: 20px;
-  background-color: white;
 }
 
 .Information-right p {
