@@ -5,7 +5,7 @@ body {
   font-optical-sizing: auto;
   font-weight: weight;
   font-style: normal;
-  background-image: url("images/8copy.jpg");
+  background-image: url("images/square.jpg");
   background-attachment: fixed;
   background-size: 100vw auto;
   background-repeat:no-repeat;
@@ -297,6 +297,10 @@ body .Information {
 
 }
 
+.DesktopImages {
+  background-color: white;
+}
+
 /* .DesktopImages .container .url {
   margin-top: 20px;
   margin-left: 100px;
@@ -315,7 +319,7 @@ body .Information {
   outline: 0;
   color: white;
   font-weight: 900;
-  font-size: 7vw;
+  font-size: 5vw;
   position: absolute;
   top: 85%;
   left: 40%;
@@ -422,7 +426,7 @@ body .Information {
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: rgba(255, 255, 0, 0.451);
+  background-color: rgba(189, 189, 189, 0.451);
   overflow: hidden;
   width: 0;
   height: 100%;
@@ -446,7 +450,7 @@ body .Information {
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: rgba(255, 255, 0, 0.451);
+  background-color: rgba(189, 189, 189, 0.451);
   overflow: hidden;
   width: 0;
   height: 100%;
@@ -910,7 +914,7 @@ ol, li {
  outline: 0;
  color: white;
  font-weight: 900;
- font-size: 4vw;
+ font-size: 2vw;
  position: absolute;
  top: 85%;
  left: 40%;
