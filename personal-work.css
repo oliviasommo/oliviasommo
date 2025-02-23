@@ -115,6 +115,7 @@ header::after {
 
 .InformationLeft {
   margin-left: 30px; position: fixed;
+  max-width: 1000px;
 }
 
 .imageleft {
