@@ -114,8 +114,7 @@ header::after {
 }
 
 .InformationLeft {
-  position: fixed;
-  margin-left: 30px;
+  margin-left: 30px; position: fixed;
   background-color: white;
 }
 
