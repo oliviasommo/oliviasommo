@@ -28,6 +28,7 @@ h1 {
 
 header {
   margin-top: 50px;
+  position: sticky;
 }
 
 header::after {
