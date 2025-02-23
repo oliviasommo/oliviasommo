@@ -322,7 +322,7 @@ body .Information {
   font-size: 5vw;
   position: absolute;
   top: 85%;
-  left: 40%;
+  left: 45%;
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
@@ -354,6 +354,11 @@ body .Information {
 
 .MobileInfo .MobileText p {
   font-size: 17px;
+}
+
+.mobileimages {
+  padding: 10px;
+  background-color: white;
 }
 
 .Links {
@@ -408,6 +413,7 @@ body .Information {
 .containerFULL {
   position:  relative;
   width: 100%;
+  margin-bottom: 10px;
 }
 
 .container {
