@@ -117,6 +117,10 @@ header::after {
   max-width: 200px;
 }
 
+.imageleft {
+  margin: 10px;
+}
+
 .Information .url{
   margin-bottom: 20px;
   font-size: 14px;
