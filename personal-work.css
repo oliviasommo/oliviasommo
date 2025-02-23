@@ -6,9 +6,9 @@ body {
   font-weight: weight;
   font-style: normal;
   background-image: url("images/8copy.jpg");
+  background-position: fixed;
   background-size: 100vw auto;
   background-repeat:no-repeat;
-  background-position: fixed;
   margin: 0px; padding: 0px;
 }
 
@@ -28,7 +28,6 @@ h1 {
 
 header {
   margin-top: 50px;
-  position: fixed;
 }
 
 header::after {
