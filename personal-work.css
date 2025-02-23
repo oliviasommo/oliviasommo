@@ -6,7 +6,7 @@ body {
   font-weight: weight;
   font-style: normal;
   background-image: url("images/8copy.jpg");
-  background-position: fixed;
+  background-attachment: fixed;
   background-size: 100vw auto;
   background-repeat:no-repeat;
   margin: 0px; padding: 0px;
@@ -1070,8 +1070,4 @@ h3 {
   margin-top: 30px;
   font-weight: 700;
   text-transform: uppercase;
-}
-
-.bottom {
-  background-color: rgb(219, 219, 219);
 }
