@@ -115,7 +115,6 @@ header::after {
 
 .InformationLeft {
   margin-left: 30px; position: fixed;
-  background-color: white;
 }
 
 .imageleft {
@@ -267,6 +266,7 @@ nav ul li a:hover {
 
 .Information .row {
   margin-right: 100px;
+  background-color: white;
 }
 
 .Information .container {
