@@ -83,6 +83,10 @@ header::after {
   font-size: 30px;
 }
 
+.item2 .container .image {
+  max-width: 200px;
+}
+
 .container .image {
   max-width: 100%;
 }
