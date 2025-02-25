@@ -87,6 +87,14 @@ header::after {
   max-width: 400px;
 }
 
+.item1 .image {
+  max-width: 300px;
+}
+
+.item1 .image {
+  position: relative;
+}
+
 .container .image {
   max-width: 100%;
 }
