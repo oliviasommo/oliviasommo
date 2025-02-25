@@ -55,6 +55,10 @@ header::after {
   margin-left: 20px;
 }
 
+.leftimages {
+  max-width: 300;
+}
+
 .mo2 p {
   color: black;
   font-weight: 200;
