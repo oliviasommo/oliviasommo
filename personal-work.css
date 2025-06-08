@@ -705,6 +705,14 @@ body .Information {
   padding-right: 10px;
 }
 
+.MobileText {
+  border-radius: 25px;
+  background: rgb(213, 0, 0);
+  padding: 20px; 
+  width: 200px;
+  height: 150px;
+}
+
 .MobileInfo .MobileText {
   padding-left: 30px;
   padding-right: 30px;
