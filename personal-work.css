@@ -709,8 +709,8 @@ body .Information {
   border-radius: 25px;
   background: rgb(213, 0, 0);
   padding: 20px; 
-  width: 200px;
-  height: 150px;
+  width: auto;
+  height: auto;
 }
 
 .MobileInfo .MobileText {
