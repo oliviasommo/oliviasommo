@@ -62,6 +62,46 @@ h3{
     top: 5%;
 }
 
+#Mobile_container {
+    max-width: 500px;
+    margin: auto;
+}
+
+.Mobile_Banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 45vh;
+}
+
+.Mobile_contents {
+    position: relative;
+    display: flex;
+}
+
+.Mobile_left_content {
+    width: 50%;
+    padding: 50px;
+    background-color:rgb(213, 0, 0);
+    color: white;
+}
+
+.Mobile_right_content {
+    position: relative;
+    width: 50%;
+}
+
+.Mobile_sticky_wrap {
+    position: sticky;
+    display: inline-block;
+    left: 100%;
+    top: 5%;
+}
+
+.Mobile_sticky_wrap p {
+    font-size: 12px;
+}
+
 h1 {
   color: black;
   font-weight: 200;
@@ -564,6 +604,10 @@ body .Information {
   .MobileDesktop button.primaryContained {
     text-decoration: none;
     background: rgba(236, 0, 135, 1);
+  }
+
+  .MobileDesktop {
+    padding-top: 20px;
   }
 
   .mo2mobile {
