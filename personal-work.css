@@ -707,7 +707,7 @@ body .Information {
 
 .MobileText {
   transition: ease-in;
-  border-radius: 25px;
+  border-radius: 50px;
   background: rgb(213, 0, 0);
   padding: 20px; 
   width: auto;
