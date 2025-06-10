@@ -706,6 +706,7 @@ body .Information {
 }
 
 .MobileText {
+  transition: ease-in;
   border-radius: 25px;
   background: rgb(213, 0, 0);
   padding: 20px; 
