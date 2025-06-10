@@ -761,6 +761,16 @@ button.primaryContained {
 
 h2 {
   font-size: 30px;
+  color: white;
+  margin-right:30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.MobileText h2 {
+  font-size: 30px;
   color: black;
   margin-right:30px;
   margin-top: 30px;
