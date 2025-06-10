@@ -713,6 +713,10 @@ body .Information {
   height: auto;
 }
 
+.MobileText p {
+  color: white;
+}
+
 .MobileInfo .MobileText {
   padding-left: 30px;
   padding-right: 30px;
