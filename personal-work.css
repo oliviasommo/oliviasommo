@@ -151,6 +151,10 @@ header::after {
   background: rgba(236, 0, 135, 1);
 }
 
+.tagline button.shelflife {
+  background: rgb(255, 0, 0);
+}
+
 .InformationLeft .mo2 p {
   color: black;
   font-weight: 200;
@@ -745,6 +749,22 @@ body .Information {
 
 button.primaryContained {
 	background:rgba(236, 0, 135, 1);
+	color: white;
+	padding: 10px 10px;
+	border: none;
+	margin-top: 0px;
+	cursor: pointer;
+	box-shadow: 0px 2px 6px 0px rgba(70, 70, 70, 0.232);
+	transition: 1s all;
+	font-size: 14px;
+	border-radius: 5px;
+  text-transform: uppercase;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+button.shelflife {
+	background:rgb(255, 0, 0);
 	color: white;
 	padding: 10px 10px;
 	border: none;
