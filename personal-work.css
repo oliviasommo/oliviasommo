@@ -707,8 +707,7 @@ body .Information {
 }
 
 .MobileText {
-  border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
-  border:solid 5px rgb(213, 0, 0);
+  border-image: linear-gradient(to bottom, #ffffff, #ff0000, #ffffff) 1 100%;
   padding: 20px; 
   width: auto;
   height: auto;
