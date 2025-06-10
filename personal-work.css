@@ -67,8 +67,8 @@ h3{
     margin: auto;
 }
 
-.Mobile_container h1 {
-   color: black;
+#Mobile_container h1 {
+  color: black;
   font-weight: 200;
   font-size: 60px;
   line-height: 40px;
