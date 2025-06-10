@@ -623,6 +623,11 @@ body .Information {
     background: rgba(236, 0, 135, 1);
   }
 
+  .MobileDesktop button.shelflife {
+    text-decoration: none;
+    background: rgba(236, 0, 135, 1);
+  }
+
   .MobileDesktop {
     padding-top: 20px;
   }
