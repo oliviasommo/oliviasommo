@@ -707,7 +707,8 @@ body .Information {
 }
 
 .MobileText {
-  border-style: outset;
+  border-left-style: double;
+  border-color: black;
   background: rgb(213, 0, 0);
   padding: 20px; 
   width: auto;
