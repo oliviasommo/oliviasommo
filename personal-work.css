@@ -113,7 +113,7 @@ h5{
 
 .Mobile_contents_MM {
   border-left: 8px solid;
-  border-image: linear-gradient(to bottom, rgb(0, 154, 217), rgb(0, 63, 105)) 0 1; 
+  border-image: linear-gradient(to bottom, rgb(0, 154, 217),rgb(0, 154, 217) 0 1; 
   position: relative;
   display: flex;
 }
