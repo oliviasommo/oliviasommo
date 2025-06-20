@@ -72,7 +72,7 @@ h5{
 .left_content_MSPC {
     width: 30%;
     padding: 100px;
-    background-color:rgb(194, 205, 61);
+    background-color:rgb(112, 121, 22);
     color: white;
 }
 
@@ -127,7 +127,7 @@ h5{
 
 .Mobile_contents_MSPC {
   border-left: 8px solid;
-  border-color: rgb(194, 205, 61);
+  border-color: rgb(112, 121, 22);
   position: relative;
   display: flex;
 }
