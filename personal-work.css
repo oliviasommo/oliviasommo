@@ -56,14 +56,14 @@ h5{
 }
 
 .left_content {
-    width: 50%;
+    width: 40%;
     padding: 100px;
     background-color:rgb(213, 0, 0);
     color: white;
 }
 
 .left_content_MM {
-    width: 50%;
+    width: 40%;
     padding: 100px;
     background-color:rgb(0, 154, 217);
     color: white;
@@ -71,7 +71,7 @@ h5{
 
 .right_content {
     position: relative;
-    width: 50%;
+    width: 60%;
 }
 
 .sticky_wrap {
@@ -116,12 +116,6 @@ h5{
   border-color: rgb(0, 154, 217);
   position: relative;
   display: flex;
-}
-
-
-.Mobile_right_content {
-    position: relative;
-    width: 60%;
 }
 
 .Mobile_sticky_wrap {
