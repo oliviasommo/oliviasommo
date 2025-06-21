@@ -155,7 +155,7 @@ h5{
 
 .Mobile_contents_B {
   border-left: 8px solid;
-  background-color:rgb(244, 121, 33);
+  border-color:rgb(244, 121, 33);
   position: relative;
   display: flex;
 }
