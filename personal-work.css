@@ -83,6 +83,13 @@ h5{
     color: white;
 }
 
+.left_content_B {
+    width: 30%;
+    padding: 100px;
+    background-color:rgb(244, 121, 33);
+    color: white;
+}
+
 .right_content {
     position: relative;
     width: 70%;
@@ -142,6 +149,13 @@ h5{
 .Mobile_contents_VM {
   border-left: 8px solid;
   border-image: linear-gradient(to bottom, rgb(255, 31, 106), rgb(255, 247, 146), rgb(255, 31, 106)) 0 1;
+  position: relative;
+  display: flex;
+}
+
+.Mobile_contents_B {
+  border-left: 8px solid;
+  background-color:rgb(244, 121, 33);
   position: relative;
   display: flex;
 }
