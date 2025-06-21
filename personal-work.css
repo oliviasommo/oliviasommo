@@ -56,35 +56,42 @@ h5{
 }
 
 .left_content {
-    width: 30%;
+    width: 35%;
     padding: 100px;
     background-color:rgb(213, 0, 0);
     color: white;
 }
 
 .left_content_MM {
-    width: 30%;
+    width: 35%;
     padding: 100px;
     background-color:rgb(0, 154, 217);
     color: white;
 }
 
 .left_content_MSPC {
-    width: 30%;
+    width: 35%;
     padding: 100px;
     background-color:rgb(112, 121, 22);
     color: white;
 }
 
 .left_content_VM {
-    width: 30%;
+    width: 35%;
     padding: 100px;
     background-color:rgb(255, 31, 106);
     color: white;
 }
 
 .left_content_B {
-    width: 30%;
+    width: 35%;
+    padding: 100px;
+    background-color:rgb(244, 121, 33);
+    color: white;
+}
+
+.left_content_RH {
+    width: 35%;
     padding: 100px;
     background-color:rgb(244, 121, 33);
     color: white;
@@ -92,7 +99,7 @@ h5{
 
 .right_content {
     position: relative;
-    width: 70%;
+    width: 65%;
 }
 
 .sticky_wrap {
