@@ -926,9 +926,12 @@ button.shelflife {
   margin-left: auto;
   padding: 0;
   display: inline-block;
+  font-size: 14px;
+}
+
+.Email a abbr {
   text-decoration: none;
   color: white
-  font-size: 14px;
 }
 
 h2 {
