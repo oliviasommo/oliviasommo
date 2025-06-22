@@ -368,6 +368,7 @@ header::after {
 .containerFULL .image {
   max-width: 100%;
   min-width: 100%;
+  padding: 10px;
 }
 
 .item1 {
