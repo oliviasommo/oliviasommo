@@ -366,8 +366,8 @@ header::after {
 }
 
 .containerFULL .image {
-  max-width: 100%;
-  min-width: 100%;
+  max-width: 90%;
+  min-width: 90%;
   padding: 10px;
 }
 
