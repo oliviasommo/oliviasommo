@@ -396,7 +396,7 @@ header::after {
 }
 
 .aboutimage {
-  max-width: 100%;
+  max-width: 414px;
 }
 
 .Information .url{
