@@ -349,6 +349,7 @@ header::after {
 .item1 .text {
   max-width: 400px;
   font-size: 6vw;
+  margin: 20px;
 }
 
 .item1 .image {
