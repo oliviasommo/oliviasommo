@@ -335,7 +335,7 @@ header::after {
 
 .Text {
   max-width: 400px;
-  font-size: 15px;
+  font-size: 20px;
   padding: 20px;
 }
 
@@ -396,7 +396,9 @@ header::after {
 }
 
 .aboutimage {
-  max-width: 414px;
+  display: block;
+    width: auto;
+    height: auto;
 }
 
 .Information .url{
