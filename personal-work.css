@@ -638,7 +638,6 @@ body .Information {
 .containerFULL {
   position:  relative;
   width: 100%;
-  padding: 10px;
 }
 
 .container {
@@ -887,7 +886,7 @@ body .Information {
 }
 
 .mobileimages {
-  padding: 10px;
+  padding: 20px;
   background-color: white;
 }
 
