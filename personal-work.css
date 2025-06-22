@@ -922,15 +922,12 @@ button.shelflife {
   text-decoration: none;
 }
 
-.Email abbr{
+.Email a abbr {
   margin-top: auto;
   margin-left: auto;
   padding: 0;
   display: inline-block;
   font-size: 14px;
-}
-
-.Email a abbr {
   text-decoration: none;
   color: white
 }
