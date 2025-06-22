@@ -395,6 +395,10 @@ header::after {
   margin: 10px;
 }
 
+.aboutimage {
+  max-width: 100%;
+}
+
 .Information .url{
   margin-bottom: 20px;
   font-size: 14px;
