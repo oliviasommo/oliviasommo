@@ -333,6 +333,7 @@ header::after {
   font-size: 30px;
 }
 
+/*
 .workgrid {
   display: grid;
   grid-template-columns: auto auto auto;
@@ -345,6 +346,7 @@ header::after {
   padding: 10px;
   font-size: 30px;
 }
+*/
 
 .item1 .text {
   max-width: 400px;
