@@ -121,6 +121,13 @@ h6{
     color: white;
 }
 
+.left_content_AG {
+    width: 35%;
+    padding: 100px;
+    background-color:rgb(234, 74, 73);
+    color: white;
+}
+
 .right_content {
     position: relative;
     width: 65%;
@@ -208,6 +215,13 @@ h6{
 .Mobile_contents_LS {
   border-left: 8px solid;
   border-color: rgb(42, 58, 146);
+  position: relative;
+  display: flex;
+}
+
+.Mobile_contents_AG {
+  border-left: 8px solid;
+  border-color: rgb(234, 74, 73);
   position: relative;
   display: flex;
 }
