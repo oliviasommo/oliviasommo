@@ -137,7 +137,9 @@ h6{
 
 .left_content_A {
     width: 35%;
-    padding: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 100px;
     background-color:rgb(255, 255, 255);
     color: rgb(0, 0, 0);
 }
