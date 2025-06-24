@@ -135,6 +135,13 @@ h6{
     color: white;
 }
 
+.left_content_L {
+    width: 35%;
+    padding: 100px;
+    background-color:rgb(255, 255, 255);
+    color: white;
+}
+
 .right_content {
     position: relative;
     width: 65%;
