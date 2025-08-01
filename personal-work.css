@@ -501,6 +501,20 @@ nav ul li a:hover {
   font-size: 20px;
 }
 
+.DesktopWorkB {
+  display: block;
+  margin-left: 20px;
+  margin-bottom: 40px;
+  padding-top: 30px;
+}
+
+.DesktopWorkB a abbr {
+  display: inline-block;
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+}
+
 
 /* @media screen and (max-width: 1000px) {
   header {
@@ -835,6 +849,10 @@ body .Information {
   }
 
   .desktop li a {
+    display: none;
+  }
+
+  .DesktopWorkB {
     display: none;
   }
 }
