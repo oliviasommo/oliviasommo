@@ -989,10 +989,10 @@ h3 {
 }
 
 .Footer {
-  background-color: rgb(202, 202, 202);
+  background:rgb(255, 223, 241);
   padding: 20px;
 }
 
 .Footer p{
-  font-size: 10px;
+  font-size: 20px;
 }
