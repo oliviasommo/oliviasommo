@@ -996,7 +996,6 @@ h3 {
 .Footer p{
   font-size: 15px;
   color: rgb(72, 72, 72);
-  text-align: center;
 }
 
 .Footer a p{
@@ -1004,7 +1003,7 @@ h3 {
 }
 
 .Footer a abbr{
-  text-decoration: line-through;
+  text-decoration: none;
   font-size: 14px;
   color: black;
   margin-left: 20px;
