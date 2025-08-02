@@ -979,7 +979,7 @@ h2 {
 }
 
 h3 {
-  font-size: 18px;
+  font-size: 15px;
   color: black;
   margin-left: 20px;
   margin-right:30px;
@@ -999,7 +999,7 @@ h3 {
   font-size: 13px;
   color: rgb(72, 72, 72);
   padding-left: 20px;
-  margin: auto;
+  margin: 5px;
 }
 
 .Footer a p{
@@ -1008,7 +1008,7 @@ h3 {
 
 .Footer a abbr{
   text-decoration: none;
-  font-size: 14px;
+  font-size: 15px;
   color: black;
   margin-left: 20px;
   margin-right:30px;
