@@ -983,9 +983,10 @@ h3 {
   color: black;
   margin-left: 20px;
   margin-right:30px;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
   font-weight: 700;
   text-transform: uppercase;
+  text-decoration: none;
 }
 
 .Footer {
