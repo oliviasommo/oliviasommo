@@ -995,8 +995,11 @@ h3 {
 
 .Footer p{
   font-size: 15px;
-  text-decoration: none;
   color: rgb(72, 72, 72);
+}
+
+.Footer a p{
+  text-decoration: none;
 }
 
 .Footer a abbr{
@@ -1011,6 +1014,7 @@ h3 {
 }
 
 .grid2 {
+  text-decoration: none;
   display: grid;
   grid-template-columns: auto auto auto;
   grid-template-rows: auto, auto, auto, auto, auto;
