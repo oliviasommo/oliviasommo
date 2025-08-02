@@ -1004,7 +1004,7 @@ h3 {
 }
 
 .Footer a abbr{
-  text-decoration: none;
+  text-decoration: line-through;
   font-size: 14px;
   color: black;
   margin-left: 20px;
