@@ -1014,6 +1014,12 @@ h3 {
   text-transform: uppercase;
 }
 
+.Footer h4 {
+  font-size: 12px;
+  color: rgb(72, 72, 72);
+  text-align: center;
+}
+
 .grid2 {
   text-decoration: none;
   display: grid;
