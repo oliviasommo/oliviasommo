@@ -135,21 +135,19 @@ h6{
     color: white;
 }
 
+.left_content_MF {
+    width: 35%;
+    padding: 100px;
+    background-color:rgb(32, 70, 63);
+    color: white;
+}
+
 .left_content_A {
     width: 35%;
     padding-left: 100px;
     padding-right: 100px;
     padding-bottom: 100px;
     background-color:rgb(255, 255, 255);
-    color: rgb(0, 0, 0);
-}
-
-.left_content_MF {
-    width: 35%;
-    padding-left: 100px;
-    padding-right: 100px;
-    padding-bottom: 100px;
-    background-color:rgb(32, 70, 63);
     color: rgb(0, 0, 0);
 }
 
@@ -260,7 +258,7 @@ h6{
 
 .Mobile_contents_MF {
   border-left: 8px solid;
- border-color:rgb(32, 70, 63);
+  border-color:rgb(32, 70, 63);
   position: relative;
   display: flex;
 }
