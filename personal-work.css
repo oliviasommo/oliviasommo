@@ -260,7 +260,7 @@ h6{
 
 .Mobile_contents_MF {
   border-left: 8px solid;
-background-color:rgb(32, 70, 63);
+ border-color:rgb(32, 70, 63);
   position: relative;
   display: flex;
 }
