@@ -370,6 +370,10 @@ header::after {
   max-width: 300px;
 }
 
+.item1 {
+  text-decoration: none;
+}
+
 .item1 .image {
   position: relative;
 }
